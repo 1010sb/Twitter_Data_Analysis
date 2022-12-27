@@ -1,0 +1,10 @@
+name: twitter_env
+channels:
+  - defaults
+dependencies:
+  - regex
+  - numpy
+  - matplotlib=3.3.4
+  - pandas=1.3.3
+  - nltk=3.6.1
+  - scikit-learn
